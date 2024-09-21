@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nima</h1>
-<h3 align="center">A passionate frontend developer from IRAN</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 - 🔭 I’m currently working on [store project](https://github.com/nima-mu/store)
 
